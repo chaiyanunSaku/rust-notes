@@ -156,9 +156,3 @@ Variables + `mut` · types + inference · `String` vs `&str` ·
 functions (no-semicolon return) · **struct = AND, enum = OR** ·
 `match` (handle every case) · `Option`/`Result` · generics `<T>`.
 
-
-```rust 
-let mut m = 'h'
-```
-
-hi
