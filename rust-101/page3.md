@@ -1,0 +1,23 @@
+## parallel technique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
