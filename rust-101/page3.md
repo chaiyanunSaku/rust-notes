@@ -13,7 +13,7 @@ Prime Sieve's total running time = n/2 + n/3 + n/5 + .... + n/p  = sum of prime 
 Contractions
 
 ```rust
-fn sieve(n) {
+fn sieve(n) {   
     sieve(n.sqrt())  // find all primes <= n.sqrt()
     // for each prime <= n.sqrt() in parallel corrst out their multiples.
 }
